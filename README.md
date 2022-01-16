@@ -1,5 +1,3 @@
-# myrepo
-Repository for testing my Git/GitHub setup
 ~/tmp % cd myrepo
 
 ~/tmp/myrepo % ls
